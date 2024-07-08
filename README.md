@@ -1,2 +1,2 @@
-# html_test
-This is a test repository to put my html project
+# HTML Project
+This repository contains my personal notes in HTML, showcasing my understanding of various HTML concepts and techniques.
